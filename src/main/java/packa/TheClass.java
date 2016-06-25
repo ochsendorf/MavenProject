@@ -1,4 +1,4 @@
-package aaaa.bbbb;
+package packa;
 
 public class TheClass {
 

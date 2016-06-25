@@ -1,7 +1,7 @@
 package aaaa.bbbb;
 
 import junit.framework.TestCase;
-import aaaa.bbbb.TheClass;
+import packa.TheClass;
 
 public class TheClassTest extends TestCase {
 	
