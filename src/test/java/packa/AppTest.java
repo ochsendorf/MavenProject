@@ -1,4 +1,4 @@
-package aaaa.bbbb;
+package packa;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

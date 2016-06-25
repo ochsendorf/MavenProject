@@ -1,4 +1,4 @@
-package aaaa.bbbb;
+package packa;
 
 import junit.framework.TestCase;
 import packa.TheClass;
@@ -19,6 +19,7 @@ public class TheClassTest extends TestCase {
 
 	public void testVai() {
 		assertEquals(message, messageReturn);
+		// comment aaa
 	}
 	
 	public void testVai2() {
